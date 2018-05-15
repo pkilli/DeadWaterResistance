@@ -1,1 +1,2 @@
-# Computational fluid dunamics study of the Dead Water Resistance
+# Dead water resistance
+Computational fluid dunamics study of the Dead Water Resistance
